@@ -1,0 +1,12 @@
+joblib==1.2.0
+streamlit
+pandas
+matplotlib
+seaborn
+numpy
+nltk
+scikit-learn
+contractions
+emoji
+plotly
+
