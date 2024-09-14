@@ -9,5 +9,5 @@ scikit-learn
 contractions
 emoji
 plotly
-python3-distutils
+distutils
 
