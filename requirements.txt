@@ -1,7 +1,6 @@
 joblib==1.2.0
 streamlit
 pandas
-matplotlib
 seaborn
 numpy
 nltk
@@ -9,5 +8,12 @@ scikit-learn
 contractions
 emoji
 plotly
-distutils
 setuptools
+scikit-learn==1.5.2
+matplotlib==3.9.2
+seaborn==0.13.2
+numpy==2.1.1
+nltk==3.9.1
+contractions==0.1.73
+emoji==2.12.1
+plotly==5.24.1
