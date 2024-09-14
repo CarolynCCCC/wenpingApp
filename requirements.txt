@@ -10,4 +10,4 @@ contractions
 emoji
 plotly
 distutils
-
+setuptools
